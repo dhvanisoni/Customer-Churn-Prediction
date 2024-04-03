@@ -1,6 +1,6 @@
 # Customer Churn Prediction with ANN Deep Learning Model
 
-The Multinational Bank Customer Churn dataset is chosen for developing a deep learning model with three different optimizers to predict customer churn. Customer churn, the discontinuation of a customer's relationship with the bank, is a crucial concern for sustainability and growth. By analyzing customer attributes, this dataset aims to develop a model to identify potential churners. The dataset includes features such as credit score, tenure, balance, and customer characteristics.
+The Multinational Bank Customer Churn dataset is chosen for developing a deep learning model with three different optimizers to predict customer churn. Customer churn, the discontinuation of a customer's relationship with the bank, is a crucial concern for sustainability and growth. By analyzing customer attributes, this dataset aims to develop a model to identify potential churners. The dataset includes features such as credit score, tenure, balance, and customer characteristics.The project aims is to reserach the effectivness of optimizers, implement different optimizers, tune hyperparmeters and compare the results.
 
 [Download The Dataset](https://github.com/dhvanisoni/Customer-Churn-Prediction-with-three-different-State-of-the-art-optimizers/blob/main/Customer_churn.csv)
 
@@ -29,4 +29,4 @@ Three different optimizers were used to evaluate performance:
 - 🔍 Findings: Adam optimizer outperformed RMSprop and Adagrad in terms of accuracy and loss, despite longer training time. RMSprop showed gradual improvement with some fluctuations, while Adagrad exhibited slower and less consistent growth.
 - Implications: The choice of optimizer significantly impacts model performance and efficiency. Adam's adaptive learning rates and momentum contribute to its superior performance, while Adagrad's reliance on historical gradients may limit its effectiveness.
   
-This project demonstrates the importance of selecting the right optimizer for deep learning models, with Adam showing the most promising results for customer churn prediction.
+This project demonstrates the importance of selecting the right optimizer for deep learning models, with Adam showing the most promising results for customer churn prediction. 
