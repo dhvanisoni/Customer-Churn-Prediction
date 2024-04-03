@@ -4,11 +4,12 @@ The Multinational Bank Customer Churn dataset is chosen for developing a deep le
 
 [Download The Dataset](https://github.com/dhvanisoni/Customer-Churn-Prediction-with-three-different-State-of-the-art-optimizers/blob/main/Customer_churn.csv)
 
-Steps Followed:
+#### Steps Followed:
+
 1. Loading The Dataset
 2. Analyze and Visualize Data
-3. Data Preprocessing
-4. Model Building
+3. Data Preprocessing 
+4. Model Training
 5. Apply different Optimizers
 6. Model Evaluation and Result Comparision
    
