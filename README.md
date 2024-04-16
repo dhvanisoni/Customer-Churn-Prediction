@@ -8,10 +8,11 @@ The Multinational Bank Customer Churn dataset is chosen for developing a deep le
 
 1. Loading The Dataset
 2. Analyze and Visualize Data
-3. Data Preprocessing 
-4. Model Training
-5. Apply different Optimizers
-6. Model Evaluation and Result Comparision
+3. Feature Encoding
+4. Split Dataset and Feature Scaling
+5. Build, Train & Evaluating the ANN Model 
+6. Apply different Optimizers
+7. Model Evaluation and Result Comparision
    
 
 ### Model Selection: ANN
