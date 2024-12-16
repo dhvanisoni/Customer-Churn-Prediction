@@ -1,5 +1,4 @@
-# Customer Churn Prediction with ANN Deep Learning Model
-
+# Customer Churn Prediction with ANN
 The Multinational Bank Customer Churn dataset is chosen for developing a deep learning model with three different optimizers to predict customer churn. Customer churn, the discontinuation of a customer's relationship with the bank, is a crucial concern for sustainability and growth. By analyzing customer attributes, this dataset aims to develop a model to identify potential churners. The dataset includes features such as credit score, tenure, balance, and customer characteristics.The project aims is to reserach the effectivness of optimizers, implement different optimizers, tune hyperparmeters and compare the results.
 
 [Download The Dataset](https://github.com/dhvanisoni/Customer-Churn-Prediction-with-three-different-State-of-the-art-optimizers/blob/main/Customer_churn.csv)
