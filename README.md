@@ -3,16 +3,6 @@ The Multinational Bank Customer Churn dataset is chosen for developing a deep le
 
 [Download The Dataset](https://github.com/dhvanisoni/Customer-Churn-Prediction-with-three-different-State-of-the-art-optimizers/blob/main/Customer_churn.csv)
 
-#### Steps Followed:
-
-1. Loading The Dataset
-2. Analyze and Visualize Data
-3. Feature Encoding
-4. Split Dataset and Feature Scaling
-5. Build, Train & Evaluating the ANN Model 
-6. Apply different Optimizers
-7. Model Evaluation and Result Comparision
-   
 
 ### Model Selection: ANN
 - Objective: Implement an Artificial Neural Network (ANN) for customer churn prediction.
