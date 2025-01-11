@@ -14,7 +14,7 @@ Three different optimizers were used to evaluate performance:
 - **RMSprop Optimizer**: Demonstrated slightly lower performance with a test accuracy of 0.8570 and a test loss of 0.3557. The accuracy curve showed gradual improvement with some fluctuations.
 - **Adagrad Optimizer**: Yielded comparatively lower results with a test accuracy of 0.8390 and a test loss of 0.3882. The accuracy curve exhibited slower and less consistent growth compared to Adam and RMSprop.
 
-### Conclusion
+### Result
 - Adam optimizer outperformed RMSprop and Adagrad in terms of accuracy and loss, despite longer training time. RMSprop showed gradual improvement with some fluctuations, while Adagrad exhibited slower and less consistent growth.
 - The choice of optimizer significantly impacts model performance and efficiency. Adam's adaptive learning rates and momentum contribute to its superior performance, while Adagrad's reliance on historical gradients may limit its effectiveness.
   
